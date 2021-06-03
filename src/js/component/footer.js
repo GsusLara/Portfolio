@@ -4,7 +4,7 @@ export const Footer = () => (
 	<>
 		<div id="contacto" className="container-fluid ">
 			{" "}
-			<div className="container contenido">hola</div>{" "}
+			<div className="container contenido foot">hola</div>{" "}
 		</div>
 		<footer className="footer mt-auto py-3 ">
 			<i className="fab fa-linkedin fa-3x ml-auto p-3"></i>
